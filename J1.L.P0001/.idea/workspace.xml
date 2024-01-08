@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="891708ab-2c23-46e4-83cb-be0fcbbbba85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SvnFrs&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d1a454a-5d87-47e9-a53e-f3445101901c" />
+        <option name="url" value="https://github.com/SvnFrs/sample-lab-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2KrdjxwQPr5ciimjpscmOWJaQKj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/IuseArch/Works/FCoder/fpt-java-lab/J1.L.P0003",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="J1.L.P0001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891708ab-2c23-46e4-83cb-be0fcbbbba85" name="Changes" comment="" />
+      <created>1674736775270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674736775270</updated>
+      <workItem from="1674736776577" duration="7296000" />
+      <workItem from="1675090592306" duration="5000" />
+      <workItem from="1675176471379" duration="622000" />
+      <workItem from="1675179146634" duration="7588000" />
+      <workItem from="1675216999474" duration="9000" />
+      <workItem from="1675338262459" duration="5973000" />
+      <workItem from="1675355967803" duration="4892000" />
+      <workItem from="1675399542582" duration="1099000" />
+      <workItem from="1675584841814" duration="5000" />
+      <workItem from="1676260747865" duration="176000" />
+      <workItem from="1676974914837" duration="412000" />
+      <workItem from="1676975651552" duration="260000" />
+      <workItem from="1677032034355" duration="133000" />
+      <workItem from="1677201043009" duration="13000" />
+      <workItem from="1678842799106" duration="31000" />
+      <workItem from="1679339382356" duration="39000" />
+      <workItem from="1679375983501" duration="277000" />
+      <workItem from="1679376279669" duration="1079000" />
+      <workItem from="1679377422116" duration="1126000" />
+      <workItem from="1679382635830" duration="244000" />
+      <workItem from="1679392207935" duration="701000" />
+      <workItem from="1679397437301" duration="1524000" />
+      <workItem from="1679432128400" duration="7912000" />
+      <workItem from="1679441702998" duration="486000" />
+      <workItem from="1679442259580" duration="9904000" />
+      <workItem from="1679452351490" duration="378000" />
+      <workItem from="1679482300309" duration="490000" />
+      <workItem from="1679540274305" duration="426000" />
+      <workItem from="1679540817899" duration="2515000" />
+      <workItem from="1679573324274" duration="170000" />
+      <workItem from="1679657591147" duration="51000" />
+      <workItem from="1679657656340" duration="56000" />
+      <workItem from="1679657960238" duration="2625000" />
+      <workItem from="1679666603674" duration="5549000" />
+      <workItem from="1679674613006" duration="1099000" />
+      <workItem from="1679708817886" duration="2060000" />
+      <workItem from="1679711411352" duration="5399000" />
+      <workItem from="1679724101719" duration="95000" />
+      <workItem from="1704561280203" duration="1254000" />
+      <workItem from="1704562719308" duration="6311000" />
+      <workItem from="1704729612503" duration="764000" />
+    </task>
+    <task id="LOCAL-00001" summary="First and maybe the last commit of this repo.">
+      <option name="closed" value="true" />
+      <created>1704561846301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704561846304</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Somehow a second commit? I really don't know, don't blame me.">
+      <option name="closed" value="true" />
+      <created>1704562176109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704562176109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Somehow a third commit? I really don't know, don't blame me.">
+      <option name="closed" value="true" />
+      <created>1704562245228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704562245228</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Somehow a third commit? I really don't know, don't blame me.">
+      <option name="closed" value="true" />
+      <created>1704562256999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704562256999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Somehow a forth commit? I really don't know, don't blame me.">
+      <option name="closed" value="true" />
+      <created>1704562505950</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704562505950</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First and maybe the last commit of this repo." />
+    <MESSAGE value="Somehow a second commit? I really don't know, don't blame me." />
+    <MESSAGE value="Somehow a third commit? I really don't know, don't blame me." />
+    <MESSAGE value="Somehow a forth commit? I really don't know, don't blame me." />
+    <option name="LAST_COMMIT_MESSAGE" value="Somehow a forth commit? I really don't know, don't blame me." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
